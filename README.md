@@ -6,4 +6,3 @@ just edit "package.json" file, and add this code
 ```
 "android-linux": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && react-native run-android"
 ```
-![Screen Shot Package.json](/Screenshot from 2018-11-29 11-38-11.png)
