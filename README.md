@@ -21,7 +21,7 @@ with above dependencies, I managed to solve this issue by doing following
 ```
 import firebase from '@firebase/app';
 ```
-# Clean the Androi Project
+# Clean the Android Project
 
 ```
   cd android
